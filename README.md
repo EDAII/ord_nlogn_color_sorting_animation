@@ -7,7 +7,7 @@ Repositório de Template para os projetos da disciplina
 | 16/0120918 | Gabriel de Jesus Carvalho |   
 
 ## Descrição do projeto
-O projeto é mostra os algoritmos O(nlogn) em ação, ordenando uma matriz de cores pela propriedade Hue.
+O projeto é mostrar os algoritmos O(nlogn) em ação, ordenando uma matriz de cores pela propriedade Hue.
 ## Guia de instalação
 Para executar o programa é necessário ter o Node e Yarn instalados.  
 - [Instalação do Node](https://nodejs.org/en/download/)
