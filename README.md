@@ -1,36 +1,30 @@
 # Repositório Template
 Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 16/0120918 | Gabriel de Jesus Carvalho |   
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+O projeto é mostra os algoritmos O(nlogn) em ação, ordenando uma matriz de cores pela propriedade Hue.
 ## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
+Para executar o programa é necessário ter o Node e Yarn instalados.  
+- [Instalação do Node](https://nodejs.org/en/download/)
+- [Instalação do Yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
+
 ### Como executar o projeto
+```
+yarn install
+```
+```
+yarn start
+```
 ## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
+![](./img/img.png)
+![](./img/img2.png)
+
 ## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+ - [Algorithm Playground](https://algorithm-playground.com/)
+ - [Hue](https://en.wikipedia.org/wiki/Hue)
+
